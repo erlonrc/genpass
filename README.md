@@ -9,7 +9,7 @@ This is a command-line utility written in Python to generate secure random passw
 ## Installation
 1. Clone the GitHub repository:
 ```bash
-git clone https://github.com/erlonicr/genpass.git
+git clone https://github.com/erlonrc/genpass.git
 ```
 2. Install the dependencies:
 ```bash
